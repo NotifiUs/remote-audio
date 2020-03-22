@@ -72,7 +72,7 @@
                 </div>
                 <div class="flex flex-row mx-auto text-center bottom-0">
 
-                    <a title="Level up your call center" href="https://notifi.us"
+                    <a title="Level up your call center" href="https://github.com/NotifiUs/remote-audio"
                        class="mx-auto text-center">
                         <img title="Level up your call center" src="/assets/images/notifius-light-logo.png"
                              class="mx-auto w-32 mt-0">
