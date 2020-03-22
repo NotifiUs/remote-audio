@@ -2,6 +2,9 @@
 
 Remote Audio is a simple browser-based soft phone powered by Twilio's Client.js SDK. 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8708a6d4-7c59-4d5c-96da-f6f322f57dba/deploy-status)](https://app.netlify.com/sites/elegant-mahavira-9809b1/deploys)
+
+
 ## General
 
 The specific use-case is for call centers and answering services that need to quickly on-board remotes who must establish a call over the PSTN to their switch.
